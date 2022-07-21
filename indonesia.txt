@@ -1,0 +1,5 @@
+dimana,where
+kapan,when
+sekarang,now
+kemarin,yesterday
+banyu,water
